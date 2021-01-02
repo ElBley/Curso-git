@@ -2,3 +2,13 @@ body{
     text-align: center;
     font-family: Arial;
 }
+header{
+    color:white;
+    text-align: left;
+    background-color: rgb(10, 29, 29);
+    padding: 10px;
+}
+footer{
+    background-color: beige;
+    padding: 20px;
+}
